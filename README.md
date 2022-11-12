@@ -1,8 +1,8 @@
 #  Taxi-project
-Django project for taxiservice.
+Django project for taxi service.
 
 ## Checkout it out!
-Taxiservice project deployed to Render.
+Taxi service project deployed to Render.
 
 ## Installation
 ##### Python3 must be already installed.
