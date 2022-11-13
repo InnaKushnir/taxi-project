@@ -19,3 +19,6 @@ Taxi service project deployed to Render.
 * Authentication functionality for Driver/User
 * Managing cars&cars manufacturers from website interface
 * Powerful admin panel for advanced managing
+
+### Demo
+![Taxi project](taxi_project.jpg)

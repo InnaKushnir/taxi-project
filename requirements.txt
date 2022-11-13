@@ -11,3 +11,5 @@ pycodestyle==2.9.1
 pyflakes==2.5.0
 sqlparse==0.4.3
 tzdata==2022.6
+dj_database_url==1.0.0
+psycopg2==2.9.5
