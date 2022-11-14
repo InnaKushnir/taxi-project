@@ -21,5 +21,9 @@ Django project for taxi service.
 * Managing cars&cars manufacturers from website interface
 * Powerful admin panel for advanced managing
 
+### Test user
+User: admintaxi
+Password: 2105Inna75
+
 ### Demo
 ![Taxi project](taxi_project.jpg)
