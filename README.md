@@ -22,8 +22,8 @@ Django project for taxi service.
 * Powerful admin panel for advanced managing
 
 ### Test user
-User: admintaxi
-Password: 2105Inna75
+* User: admintaxi
+* Password: 2105Inna75
 
 ### Demo
 ![Taxi project](taxi_project.jpg)
