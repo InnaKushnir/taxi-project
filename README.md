@@ -2,6 +2,7 @@
 Django project for taxi service.
 
 ## Checkout it out!
+
 [Taxi service project deployed to Render](https://taxi-project.onrender.com)
 
 ## Installation
