@@ -12,6 +12,10 @@
     </a>
   </h1>
   <p>Manufacturer: ({{ car.manufacturer.name }}, {{ car.manufacturer.country }})</p>
+    <a href="{% url 'taxi:car-list' %}" class="btn btn-secondary link-to-page">
+      Car List
+    </a>
+
   <h1>
     Drivers
 
