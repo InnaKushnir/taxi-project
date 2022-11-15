@@ -21,9 +21,15 @@ Django project for taxi service.
 ## Installation
 ##### Python3 must be already installed.
 
-##### git clone https://github.com/InnaKuhsnir/taxi-project
-##### cd taxi_project
-##### python -m venv venv
-##### source venv/bin/activate
-`#####` pip install -r requirements.txt
-##### python manage.py runserver 
+`git clone https://github.com/InnaKuhsnir/taxi-project`
+
+`cd taxi_project`
+
+`python -m venv venv`
+
+`source venv/bin/activate`
+
+`  pip install -r requirements.txt`
+
+`python manage.py runserver 
+`
