@@ -31,6 +31,8 @@
   <ul>
     {% for driver in car.drivers.all %}
       <li>{{ driver.username }} ({{ driver.first_name }} {{ driver.last_name }})</li>
+        <li>CAR</li>
+
     {% endfor %}
   </ul>
 {% endblock %}
