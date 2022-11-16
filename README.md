@@ -5,15 +5,16 @@ Django project for taxi service.
 
 [Taxi service project deployed to Render](https://taxi-project.onrender.com)
 
-### Features
+## Features
 
 * Authentication functionality for Driver/User
 * Managing cars&cars manufacturers from website interface
 * Powerful admin panel for advanced managing
 
-### Test user
-* User: admintaxi
-* Password: 2105Inna75
+## Test user
+***** User: admintaxi****
+
+***** Password: 2105Inna75****
 
 ### Demo
 ![Taxi project](taxi_project.jpg)
