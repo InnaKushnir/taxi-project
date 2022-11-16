@@ -12,9 +12,9 @@ Django project for taxi service.
 * Powerful admin panel for advanced managing
 
 ## Test user
-***** User: admintaxi****
+##  User: admintaxi
 
-***** Password: 2105Inna75****
+##  Password: 2105Inna75
 
 ### Demo
 ![Taxi project](taxi_project.jpg)
