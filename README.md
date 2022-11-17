@@ -17,6 +17,7 @@ Django project for taxi service.
 
 ### Password: 2105Inna75
 
+
 ### Demo
 ![Taxi project](taxi_project.jpg)
 
