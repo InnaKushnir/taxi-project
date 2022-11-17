@@ -22,7 +22,7 @@ Django project for taxi service.
 ![Taxi project](taxi_project.jpg)
 
 #### Installation
-## Python3 must be already installed.
+##### Python3 must be already installed.
 
 ```
 git clone https://github.com/InnaKuhsnir/taxi-project
