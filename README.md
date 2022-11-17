@@ -13,16 +13,16 @@ Django project for taxi service.
 
 #### Test user
 
-*User: 'admintaxi'
+* User: `admintaxi`
 
-*Password: '2105Inna75'
+* Password: `2105Inna75`
 
 
-### Demo
+#### Demo
 ![Taxi project](taxi_project.jpg)
 
-## Installation
-##### Python3 must be already installed.
+#### Installation
+## Python3 must be already installed.
 
 ```
 git clone https://github.com/InnaKuhsnir/taxi-project
