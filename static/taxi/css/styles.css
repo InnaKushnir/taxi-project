@@ -7,9 +7,11 @@ body {
     float: right;
     margin: 0 2px 0 2px;
 }
+
 .list-group-item {
     border-radius: 10px;
 }
+
 .wrap {
     display: block;
     margin: 0 auto;
